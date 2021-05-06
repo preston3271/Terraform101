@@ -13,5 +13,5 @@ To simply distinguish the difference between the use of variable.tf and a variab
 
 ### Footnotes
 
-[^1]: For more markdown syntax see https://www.markdownguide.org/extended-syntax/
+<a name="myfootnote1">1</a>: For more markdown syntax see https://www.markdownguide.org/extended-syntax/
 
