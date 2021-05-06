@@ -11,3 +11,5 @@ To simply distinguish the difference between the use of variable.tf and a variab
 * The variable.tfvars is to be set in the root of a terraform project; This file will take precedence over another .tfvars found in a module root directory.
 
 
+### Footnotes
+[^1]: For more markdown syntax see https://www.markdownguide.org/extended-syntax/
